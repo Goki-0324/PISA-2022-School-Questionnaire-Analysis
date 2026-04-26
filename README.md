@@ -50,9 +50,9 @@ This ensures that the original measurement structure is preserved even without S
 ### 📦 Required Libraries
 ```python
 pandas  
-numpy  
+numpy 1.26.4  
 pyreadstat  
-scikit-learn  
+scikit-learn 1.3.2  
 matplotlib  
 seaborn
 ```
